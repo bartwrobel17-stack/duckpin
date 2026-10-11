@@ -5,7 +5,7 @@ import { ArrowDown, ArrowLeft, ArrowUp, Check, ExternalLink, ImagePlus, LayoutDa
 import Link from "next/link";
 import "./admin.css";
 
-type Dish = { id: string; name: string; category: string; description: string; price: string; image: string };
+type Dish = { id: string; name: string; category: string; description: string; price: string; image?: string };
 type Photo = { id: string; title: string; src: string };
 type Copy = { headline: string; intro: string; phone: string; address: string };
 const defaultDishes: Dish[] = [
