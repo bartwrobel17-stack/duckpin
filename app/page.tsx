@@ -8,7 +8,7 @@ const menuItems = [
   { name: "Crispy chicken burger", category: "Burgery", note: "Chrupiący kurczak, sałata, majo limonkowe", price: "—", tag: "", image: "photo-1606755962773-d324e0a13086" },
   { name: "Loaded fries", category: "Na start", note: "Złote frytki z dodatkami do dzielenia", price: "—", tag: "Do ekipy", image: "photo-1573080496219-bb080dd4f877" },
   { name: "Krążki cebulowe", category: "Na start", note: "Chrupiące, podawane z sosem", price: "—", tag: "", image: "photo-1639024471283-03518883512d" },
-  { name: "Coś na ochłodę", category: "Drinki i napoje", note: "Zapytaj obsługę o aktualną kartę", price: "—", tag: "", image: "photo-151 beverage" },
+  { name: "Coś na ochłodę", category: "Drinki i napoje", note: "Zapytaj obsługę o aktualną kartę", price: "—", tag: "", image: "photo-1514362545857-3bc16c4c7d1b" },
   { name: "Słodki finał", category: "Na słodko", note: "Dopytaj o deser dnia", price: "—", tag: "", image: "photo-1563805042-7684c019e1cb" }
 ];
 const categories = ["Wszystko", "Burgery", "Na start", "Drinki i napoje", "Na słodko"];
